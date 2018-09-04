@@ -2,7 +2,7 @@
 This file contains a set of activities to learn how to use the tool and the concepts behind it.
 More information about such methods and Descartes can be found [here](https://github.com/STAMP-project/pitest-descartes).
 
-##Prerequisites
+## Prerequisites
 
 1. Java 8+
 2. Maven 3+
