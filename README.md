@@ -1,6 +1,6 @@
 # Examples of pseudo-tested methods
 
-This project contains simplified versions of scenarios where **pseudo-tested** methods were found by (Descartes)[] in real open source projects.
+This project contains simplified versions of scenarios where **pseudo-tested** methods were found by [Descartes](https://github.com/STAMP-project/pitest-descartes) in real open source projects.
 
 The project is intended to be used as a supporting material in teaching activities.
 
